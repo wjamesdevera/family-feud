@@ -1,0 +1,93 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# C++
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+config/credentials.yml.enc
+coverage/
+Gemfile.lock
+
+# PHP
+vendor/
+*.log
+
+# JavaScript
+*.log
+*.tsbuildinfo
+
+# Build
+build/
+dist/
+tmp/
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.njsproj
+*.sln
+*.swp
+*.swo
+
+# Logs
+*.log
+*.out
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.tgz
+*.gz
+*.zip
+*.rar
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Linux
+*.pid
+*.seed
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Custom
+# Add any files or directories you want to ignore specific to your project
+
